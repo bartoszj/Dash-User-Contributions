@@ -1,6 +1,6 @@
 {
     "name": "Kubernetes",
-    "version": "1.19.4",
+    "version": "1.20.1",
     "archive": "Kubernetes.tgz",
     "author": {
         "name": "John Patterson",
@@ -11,6 +11,22 @@
         "kubectl"
     ],
     "specific_versions": [
+        {
+            "version": "1.20.1",
+            "archive": "versions/1.20.1/Kubernetes.tgz"
+        },
+        {
+            "version": "1.20.0",
+            "archive": "versions/1.20.0/Kubernetes.tgz"
+        },
+        {
+            "version": "1.19.6",
+            "archive": "versions/1.19.6/Kubernetes.tgz"
+        },
+        {
+            "version": "1.19.5",
+            "archive": "versions/1.19.5/Kubernetes.tgz"
+        },
         {
             "version": "1.19.4",
             "archive": "versions/1.19.4/Kubernetes.tgz"
@@ -30,6 +46,14 @@
         {
             "version": "1.19.0",
             "archive": "versions/1.19.0/Kubernetes.tgz"
+        },
+        {
+            "version": "1.18.14",
+            "archive": "versions/1.18.14/Kubernetes.tgz"
+        },
+        {
+            "version": "1.18.13",
+            "archive": "versions/1.18.13/Kubernetes.tgz"
         },
         {
             "version": "1.18.12",
@@ -82,6 +106,14 @@
         {
             "version": "1.18.0",
             "archive": "versions/1.18.0/Kubernetes.tgz"
+        },
+        {
+            "version": "1.17.16",
+            "archive": "versions/1.17.16/Kubernetes.tgz"
+        },
+        {
+            "version": "1.17.15",
+            "archive": "versions/1.17.15/Kubernetes.tgz"
         },
         {
             "version": "1.17.14",
